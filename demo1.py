@@ -1,0 +1,7 @@
+print("enter five nos")
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+e=int(input())
+print("add=",a+b+c+d+e)
