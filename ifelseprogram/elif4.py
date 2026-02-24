@@ -1,5 +1,4 @@
-
-
+"""wap take two nos from keyboard enter your choice 1.add 2.sub 3.must invalid choice menu driven program """
 print("enter two nos")
 no1=int(input())
 no2=int(input())
@@ -13,3 +12,15 @@ elif ch==3:
    print("mult=",no1*no2)
 else: 
    print("invalid choice")	
+   
+"""
+enter two nos
+7
+5
+enter two choice
+1.add
+2.sub
+3.mult
+3
+mult= 35
+"""

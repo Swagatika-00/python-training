@@ -12,3 +12,12 @@ elif no<1000:
 else:
     print("od")	
 
+"""
+enter a number
+67
+dd
+"""
+enter a number
+7
+sd
+
