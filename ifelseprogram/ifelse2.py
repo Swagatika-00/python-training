@@ -4,4 +4,9 @@ if a>=0:
 	print("+ve")
 else:
 	print("-ve")
-	
+
+	"""
+	enter a number
+2
++ve
+"""

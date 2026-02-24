@@ -1,0 +1,11 @@
+#wap display hi msg 10 times
+print("hi")
+print("hi")
+print("hi")
+print("hi")
+print("hi")
+print("hi")
+print("hi")
+print("hi")
+print("hi")
+print("hi")
