@@ -1,0 +1,5 @@
+print(type(s),s)
+print(type(t),t)
+print(type(L),L)
+print(type(s1),s1)
+print(type(d1),s)
