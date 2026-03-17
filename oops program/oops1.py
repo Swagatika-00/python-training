@@ -1,0 +1,22 @@
+class Student:
+	def __init__(self,n,r,m):
+	     self.name=n
+	     self.roll=r
+	     self.mark=m
+	def show(self):
+	    print("my name =",self.name) 
+	    print("my rollno=",self.roll) 
+	    print("my mark=",self.mark)
+s1=Student("swagatika",1,90.50)
+s2=Student("sandipa",2,80.50)
+s1.show()
+s2.show()
+
+"""
+my name = swagatika
+my rollno= 1
+my mark= 90.5
+my name = sandipa
+my rollno= 2
+my mark= 80.5
+"""
