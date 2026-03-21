@@ -13,3 +13,6 @@ print(result)
 Enter a number: 4
 Even Number
 """
+Enter a number: 7
+Odd Number
+"""

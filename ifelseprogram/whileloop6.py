@@ -1,0 +1,24 @@
+i=1
+print("A")
+while i<4:
+	print("B")
+	i=i+4
+	continue
+	print(i)
+	print("C")
+print("D")
+print(i)	
+"""
+A
+B
+2
+C
+B
+3
+C
+B
+4
+C
+D
+4
+"""

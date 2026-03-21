@@ -4,3 +4,7 @@ def show():
 	print(x)
 	print(globals()['x'])
 show()	
+"""
+30
+10
+"""

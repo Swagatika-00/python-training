@@ -5,5 +5,9 @@ def check(num):
 
 n = int(input("Enter a number: "))
 check(n)
+"""
+Enter a number: 67
+It is an Odd number
+"""
 
 
